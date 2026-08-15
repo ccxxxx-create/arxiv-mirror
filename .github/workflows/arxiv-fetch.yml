@@ -22,7 +22,7 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch arXiv papers
-        run: python arxiv_fetch.py
+        run: python fetch_arxiv.py
 
       - name: Commit latest.json
         run: |
