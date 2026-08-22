@@ -1,6 +1,6 @@
 {
-  "date": "20260821",
-  "updated": "2026-08-21T03:38:39Z",
+  "date": "20260822",
+  "updated": "2026-08-22T03:25:34Z",
   "uav": [
     {
       "title": "Secrecy Rate Maximization for UAV-Mounted Six-Dimensional Movable IRS-Assisted ISAC Systems",
@@ -94,6 +94,13 @@
       "link": "https://arxiv.org/abs/2608.20184v1",
       "published": "2026-08-20T15:40:57Z",
       "category": "q-bio.QM"
+    },
+    {
+      "title": "Resolution of Singularities in Positive Characteristic: Frobenius-Hasse Towers and Exceptional-History Descent",
+      "summary": "Let k be a perfect field of characteristic p>0. We introduce an object-level construction for canonical strong embedded resolution and principalization over k. The construction program replaces monotonicity of pointwise numerical invariants by a well-founded history of addressed comparison factors. Starting from the differential-integral saturation of a marked Rees algebra, we construct total-Hasse activity packets, filtered coefficient cubes, semilinear Frobenius-Hasse sources, and literal transform data for ordinary permissible blowups. A six-row defect calculus routes local problems to certified surface, toroidal-monomial, binomial, and additive-type procedures, after which clean centre portfolios are serialized and descended on a global nerve. The central structure is a global replacement certificate transporting successor addresses, paid quotients, typed traces, displayed parents, reopening data, and terminal truth across macroblocks. We prove that a complete state equipped with this certificate admits a strict multiset replacement in a single dependent well-founded order; hence the iteration terminates and the exhausted state reconstructs a regular strict transform having normal crossings with the ordered boundary. We further formulate an object-level realization of the certificate through rigid generation, cross-generation no-reset, complete wild-capacity control, a centre-or-typed-exit alternative, structured cofibres, displayed-parent allocation, and literal terminal truth. The program page is also available at website https://sites.google.com/view/positive-char-resolution",
+      "link": "https://arxiv.org/abs/2608.20066v1",
+      "published": "2026-08-20T14:01:28Z",
+      "category": "math.GM"
     }
   ]
 }
